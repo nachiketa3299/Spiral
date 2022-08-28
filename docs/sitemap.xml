@@ -2,10 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nachiketa3299.github.io/Spiral/test_post/</loc>
-    <priority>0</priority>
+    <loc>https://nachiketa3299.github.io/Spiral/post/test_post/</loc>
   </url><url>
     <loc>https://nachiketa3299.github.io/Spiral/categories/</loc>
+  </url><url>
+    <loc>https://nachiketa3299.github.io/Spiral/post/</loc>
   </url><url>
     <loc>https://nachiketa3299.github.io/Spiral/</loc>
   </url><url>
