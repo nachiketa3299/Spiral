@@ -2,7 +2,6 @@ baseURL = 'https://nachiketa3299.github.io/Spiral/'
 languageCode = 'en-us'
 title = 'Spiral'
 theme = 'fuji'
-publishDir = 'docs'
 
 # Fuji theme configuration
 ## License, toc and comments
