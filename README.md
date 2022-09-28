@@ -1,7 +1,0 @@
----
-
----
-
-# Spiral
-
-- My First Blog

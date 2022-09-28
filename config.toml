@@ -1,16 +1,3 @@
-baseURL = 'https://nachiketa3299.github.io/Spiral/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Spiral'
-theme = 'fuji'
-
-# Fuji theme configuration
-## License, toc and comments
-## If you want to set each post, do this in the post.md's frontmatter
-
-showLicense = true
-showToc = true
-
-[module]
-[module.hugoVersion]
-extended = true
-min = "0.90.0"
+title = 'My New Hugo Site'
